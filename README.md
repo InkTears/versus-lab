@@ -19,7 +19,7 @@ Application de gestion de tournois e-sport et sportifs. Versus.Lab offre une pla
 ### Configuration
 
 ```bash
-git clone https://github.com/VOTRE_NOM/versus-lab.git
+git clone https://github.com/InkTears/versus-lab.git
 cd versus-lab
 npm install
 ```
